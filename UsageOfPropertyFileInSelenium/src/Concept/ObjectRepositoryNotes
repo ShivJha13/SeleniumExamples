@@ -1,0 +1,27 @@
+        Usage of Property file in Selenium  or Object Repository file==>
+   
+     What is Property file /Configuration file/ Object repository file (OR)  
+   why we use 
+   How to read this proprty file in java and selenium 
+   Create library for reuse 
+   ########################################################
+      What is PropertyFile/Configuration file / OR ?
+  It is a plain text file which contains data in thew form of  Key and Value pair 
+  Using keys we can get the values respectively
+  YOu can use as a configuration file 
+  In Selenium yu can use this as Object Repository as well  
+ 
+  Note: If yu are not using Page object model then yu can use this property file concept 
+     as a Object Repository.So, duplicacy of code will be less
+     
+     
+     
+     Uses ==>
+     Instead of changing every where we can change in Property file so, it will reflect every where 
+     
+   #################################################################################################
+          
+            How to create ==>>
+     First Create Folder =>Then create File (here extension of file is .property) here we specify Key value pair=>
+     
+         
